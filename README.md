@@ -11,6 +11,7 @@ files.
 | --- | --- |
 | [`caching`](./caching) | Caching algorithms: FIFO, LIFO, LRU, and MRU replacement policies |
 | [`Basic_authentication`](./Basic_authentication) | Basic Authentication on a Flask API: error handlers, Base64 decoding, credential parsing, and user lookup |
+| [`Session_authentication`](./Session_authentication) | Session Authentication: login/logout via a Session ID cookie, built on top of Basic Authentication |
 
 More projects will be added here as new directories as the program progresses.
 
